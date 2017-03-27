@@ -1,0 +1,23 @@
+{
+  "name": "easy-node-proxy",
+  "version": "1.0.0",
+  "description": "Node.js server working in reverse proxy",
+  "main": "app.js",
+  "scripts": {
+    "start": "node app",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Ayushverma8/Easy-Node-Proxy.git"
+  },
+  "author": "Ayushverma8",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/Ayushverma8/Easy-Node-Proxy/issues"
+  },
+  "homepage": "https://github.com/Ayushverma8/Easy-Node-Proxy#readme",
+  "dependencies": {
+    "http-proxy": "^1.12.0"
+  }
+}
